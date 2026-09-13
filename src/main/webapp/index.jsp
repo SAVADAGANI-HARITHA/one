@@ -908,7 +908,7 @@
 <header>
   <div class="container header-inner">
     <div style="display:flex;align-items:center;gap:10px;">
-      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><em class="fas fa-bars"></em></button>
       <a class="brand" href="#"><i class="fas fa-store-alt"></i><span>Nexus<span class="accent">Shop</span></span></a>
     </div>
 
